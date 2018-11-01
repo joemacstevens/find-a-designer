@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## View Live Version
 
 [Click Here](https://joemacstevens.github.io/find-a-designer/)
+[CodeSandbox](https://codesandbox.io/s/github/joemacstevens/find-a-designer)
+
+*Code Sanbox is unfortunatly not rendering SASS, so the preview looks janky*
 
 ## How to Use
 
