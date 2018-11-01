@@ -1,0 +1,59 @@
+{
+	"designers": [{
+			"name": "sire design",
+			"description": "Sire Design is a Miami-Based Interior Design Studio specializing in high-end residential & commercial build- outs and renovations.",
+			"contact": {
+				"address": "1789 NE Miami Gardens Drive",
+				"city": "Miami",
+				"state": "Fl",
+				"zip_code": "33179",
+				"phone": "3059671808"
+			}
+		},
+		{
+			"name": "hyde evans design",
+			"description": "Hyde Evans Design is a residential interior design and interior architecture firm in Seattle.",
+			"contact": {
+				"address": "2323 12th Ave E",
+				"city": "Seattle",
+				"state": "WA",
+				"zip_code": "98102",
+				"phone": "2068990224"
+			}
+		},
+		{
+			"name": "fredman design group",
+			"description": "While each of our clients and their stories has varied over the years, they’ve come to trust us with their projects—from a single room to the larger complete renovation, addition, or new construction.",
+			"contact": {
+				"address": "1131 W. Armitage Avenue",
+				"city": "Chicago",
+				"state": "IL",
+				"zip_code": "60614",
+				"phone": "7734327568"
+			}
+		},
+		{
+			"name": "tim clarke interior design",
+			"description": "Tim Clarke, Interior Designer in Santa Monica, California, is well known for creating sophisticated, unique spaces inspired by modern classicism.",
+			"contact": {
+				"address": "2110 Main Street",
+				"city": "Santa Monica",
+				"state": "CA",
+				"zip_code": "90405",
+				"phone": "3109058912"
+			}
+		},
+		{
+			"name": "brooke wagner design",
+			"description": "Since 2003, Brooke has been creating beautiful custom residences for clients of her own design firm, Brooke Wagner Design.",
+			"contact": {
+				"address": "2732 E. Coast Hwy",
+				"address2": "Suite C.",
+				"city": "Corona Del Mar",
+				"state": "CA",
+				"zip_code": "92625",
+				"phone": "9496122716"
+			}
+		}
+	]
+}
